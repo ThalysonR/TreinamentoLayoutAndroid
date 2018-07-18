@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Viagens</string>
+    <string name="especiais">Especiais</string>
+    <string name="brasil">Brasil</string>
+    <string name="conteudo_do_banner_inicial">Banner inicial dos países</string>
+    <string name="resumo_pacote_preco">Preço final:</string>
+    <string name="resumo_pacote_botao_realiza_pagamento">REALIZAR PAGAMENTO</string>
+    <string name="resumo_pacote_imagem">Imagem do local</string>
 </resources>
